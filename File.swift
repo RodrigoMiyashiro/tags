@@ -11,3 +11,7 @@ struct Restaurant {
     let name: String
     let address: String
 }
+
+struct User {
+    let profile: Profile
+}
